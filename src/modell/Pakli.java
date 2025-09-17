@@ -1,6 +1,6 @@
-package main;
+package modell;
 
-import main.Lap;
+import modell.Lap;
 
 public class Pakli {
     public static final String RESET = "\u001B[0m";

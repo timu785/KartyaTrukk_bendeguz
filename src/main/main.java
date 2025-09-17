@@ -1,6 +1,6 @@
 package main;
 
-import main.KartyaTrukk;
+import nezet.KartyaTrukk;
 
 public class main {
     public static void main(String[] args) {

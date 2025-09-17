@@ -1,7 +1,7 @@
-package main;
+package nezet;
 
 import java.util.Scanner;
-import main.Pakli;
+import modell.Pakli;
 
 public class KartyaTrukk {
     static Scanner sc = new Scanner(System.in);
